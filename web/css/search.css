@@ -1,0 +1,32 @@
+.forms{
+    display: flex;    
+}
+.image_search img{
+   float: left;
+   width: 200px;
+   margin-right: 5px;
+}
+.text{
+    color: #3E4E44;
+    text-decoration: none;
+}
+
+.pager{
+    float: right;
+}
+.pager a
+{
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: buttonhighlight;
+    padding: 3px;
+    margin: 2px;
+    color: #3E4E44;
+    text-decoration: none;
+}
+.pager span
+{
+    color: red;
+}
+

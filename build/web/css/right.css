@@ -1,0 +1,31 @@
+.right{
+    width: 30%;
+    height: auto;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 80px;
+}
+.input{
+    border: dashed 1px #3e5468;
+    width: 150px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+.submit{
+    border: none;
+    background-color: transparent;
+    font-weight: bold;
+    color: #53594b;
+}
+.fiveRecentArticles {
+    margin-top: 0px;
+    padding-left: 0px;
+}
+.item{
+    list-style-type: none;
+    margin-bottom: 15px;
+}
+.item a{
+    font-size: 13px;
+    color: #3E4E44;
+}
